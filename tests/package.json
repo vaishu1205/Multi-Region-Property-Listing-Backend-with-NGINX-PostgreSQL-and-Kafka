@@ -1,0 +1,12 @@
+{
+  "name": "integration-tests",
+  "version": "1.0.0",
+  "description": "Integration tests for multi-region property backend",
+  "scripts": {
+    "test": "node test_concurrent_updates.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "uuid": "^9.0.1"
+  }
+}

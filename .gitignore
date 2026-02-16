@@ -1,0 +1,8 @@
+node_modules/
+*.log
+.env
+db-us-data/
+db-eu-data/
+.DS_Store
+*.swp
+*.swo
